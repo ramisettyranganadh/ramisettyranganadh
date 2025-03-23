@@ -4,7 +4,51 @@
 <p><img align="right" src="https://github.com/ramisettyranganadh/ramisettyranganadh/blob/main/GIT%20PROFILE%20ANIMATION.gif" alt="ramisettyranganadh"></p>
 <ul>
 <li>
-<p> I’m currently working on Embedded Software Development for Aerospace Projects </p>
+<p> Embedded Software Development Professional with 11 Years of Experience from various industries like Aerospace, Automotive, Industrial Electronics, Networking and Telecom. 
+  
+Currently working on Project:
+  
+Main Deck Cargo Loading System (ANCRA - A350F)
+
+From Aug 2022 to till date
+
+Role Description: Architect/Developer
+
+- Developed firmware (Bootstrap Bare Metal Embedded Software) for various Control Panels with Microchip PIC32MK Microcontroller using MPLab X IDE.
+- Designed and implemented device drivers and firmware for various peripherals.
+- Developed and implemented Bootloader Software to Initialise Firmware, Drivers and perform Power On Self Tests (POST).
+- Developed and implemented Dataloader Software to perform Field Data Loading of Operational Software.
+- Developed and implemented Application Software with the following functionalities: 
+  - Receive Panel Status Commands over CAN and transmit Panel Operator Commands over CAN.
+  - Receive Discrete Inputs and control Discrete Outputs.
+  - Receive Configuration Recording and transmit Reporting via CAN.
+  - Receive Maintenance Request and transmit Response using CAN.
+  - Ensured compliance with DO178C industry standards and regulations.
+
+Skill Set : C, MPLAB X IDE, XC32, PIC32MK0512MCM100, CAN, FLASH, NVM, SPI, SVN, JIRA, DOORS etc.
+
+Previously Worked on Project:
+Flight Warning System (AIRBUS A320)
+
+From Feb 2019 to Jul 2022
+
+Flight Warning System is Component based development using HMI Framework DO178C level C software and the main functions of the system are
+
+- Continuous monitoring of aircraft systems with display of messages to improve crew situation awareness during normal flight configuration.
+- Immediate generation of alerts to the crew, in case of aircraft system failure or dangerous configuration and presents the associated abnormal procedure and main aircraft status.
+- Audio announcements, Light Indications and various data on different flight phases.
+
+Role Description : 
+Architect/Designer/Developer - HMI Framework development.
+
+Responsibilities : 
+- Design and Develop for Flight Warning System Display as per prescribed Architecture.
+- Develop Flight Warning System as component and integration with other supporting components.
+- Development of Specifications and LLRs in Formal methods.
+- Integration Test environment development and debug support. 
+
+Skill Set : GitHub, SVN, JIRA, Ride, Trace32, C, Robot Framework, CODDA, DCSL, ACSL, Gradle.
+</p>
 </li>
 <li>
 <p> How to reach me <strong><a href="mailto:ramisettyranganadh@gmail.com">ramisettyranganadh@gmail.com</a></strong></p>
