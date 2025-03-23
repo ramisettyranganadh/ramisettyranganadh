@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Ramisetty Ranganadh </h1>
 <h3 align="center">Senior Technical Lead, HCL TECH 🌟</h3>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"></p>
+<p><img align="right" src="https://github.com/ramisettyranganadh/ramisettyranganadh/blob/main/GIT%20PROFILE%20ANIMATION.gif" alt="ramisettyranganadh"></p>
 <ul>
 <li>
 <p> I’m currently working on Embedded Software Development for Aerospace Projects </p>
