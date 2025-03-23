@@ -50,24 +50,18 @@ Responsibilities :
 - Integration Test environment development and debug support. 
 
 Skill Set : GitHub, SVN, JIRA, Ride, Trace32, C, Robot Framework, CODDA, DCSL, ACSL, Gradle.
-</p>
-</li>
-<li>
-<p> How to reach me <strong><a href="mailto:ramisettyranganadh@gmail.com">ramisettyranganadh@gmail.com</a></strong></p>
-</li>
-</ul>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ramisettyranganadh/" target="blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40"></a>
 
-  <a href="https://www.hackerrank.com/profile/ramisettyrangan2" target="blank">
-<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramisettyrangan2" height="30" width="40">
-</a>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-</p>
-<br>
 <h3 align="left">Languages:</h3>
 <p align="left">  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"> </a> 
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ramisettyranganadh/" target="blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40"></a>
+  <a href="https://www.hackerrank.com/profile/ramisettyrangan2" target="blank">
+<img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramisettyrangan2" height="30" width="40"></a>
+
+<p> How to reach me <strong><a href="mailto:ramisettyranganadh@gmail.com">ramisettyranganadh@gmail.com</a></strong></p>
