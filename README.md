@@ -4,7 +4,7 @@
 <!-- <p><img align="right" src="https://github.com/ramisettyranganadh/ramisettyranganadh/blob/main/GIT%20PROFILE%20ANIMATION.gif" alt="ramisettyranganadh"></p> -->
 <ul>
 <li>
-<p> <h3>Embedded Software Development </h3> with 11 Years of Experience from various domains Aerospace, Automotive, Industrial Electronics, Networking. 
+<p> <h3>Embedded Software Development </h3> with 11 Years of Experience from various domains Aerospace, Automotive, Industrial Electronics, Networking and Telecom. 
   
 Currently working on Project:
   
