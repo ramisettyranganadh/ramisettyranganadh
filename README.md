@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Ramisetty Ranganadh </h1>
 <h3 align="center">Senior Technical Lead, HCL TECH 🌟</h3>
 
-<p><img align="right" src="https://github.com/ramisettyranganadh/ramisettyranganadh/blob/main/GIT%20PROFILE%20ANIMATION.gif" alt="ramisettyranganadh"></p>
+<!-- <p><img align="right" src="https://github.com/ramisettyranganadh/ramisettyranganadh/blob/main/GIT%20PROFILE%20ANIMATION.gif" alt="ramisettyranganadh"></p> -->
 <ul>
 <li>
 <p> <h3>Embedded Software Development </h3> with 11 Years of Experience from various domains Aerospace, Automotive, Industrial Electronics, Networking. 
