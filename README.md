@@ -12,6 +12,8 @@ Currently working on Project:
 
 From Aug 2022 to till date
 
+Main Deck Cargo Loading System is responsible for moving the ULDs (Unit Load Device) inside the aircraft main deck with the help of PDUs (Power Drive Units), CP (Control Panels), CDP (Control Display Panel), CRDCs (Common Remote Data Concentrator) and CPIOM (Core Processing Input Output Module) to the designated Zone based on the commands sent by Control Panel over CAN nodes and Ethernet networks.
+
 Role Description: Architect/Developer
 
 - Developed firmware (Bootstrap Bare Metal Embedded Software) for various Control Panels with Microchip PIC32MK Microcontroller using MPLab X IDE.
