@@ -1,12 +1,12 @@
   <h1 align="center">Hi 👋, I'm Ramisetty Ranganadh </h1>
-<h3 align="center"> Embedded Software Architect 🌟</h3>
+<h3 align="center"> Embedded Software Architect and Developer 🌟</h3>
 
 <!-- <p><img align="right" src="https://github.com/ramisettyranganadh/ramisettyranganadh/blob/main/GIT%20PROFILE%20ANIMATION.gif" alt="ramisettyranganadh"></p> -->
 <ul>
 <li>
 <p> <h3>Embedded Software Development </h3> with 11+ Years of Experience from various domains Aerospace, Automotive, Industrial Electronics, Networking and Telecom. 
   
-Currently working on Project:
+Worked on Project:
   
 <h4> Main Deck Cargo Loading System (ANCRA - A350F) </h4>
 
@@ -32,7 +32,7 @@ Skill Set : C, MPLAB X IDE, Yocto Linux, U-Boot, DTS, PIC32MK0512MCM100, CAN, FL
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Previously Worked on Project:
+Worked on Project:
 <h4> Flight Warning System (AIRBUS A320) </h4>
 
 From Feb 2019 to Jul 2022
