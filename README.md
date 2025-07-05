@@ -4,7 +4,7 @@
 <!-- <p><img align="right" src="https://github.com/ramisettyranganadh/ramisettyranganadh/blob/main/GIT%20PROFILE%20ANIMATION.gif" alt="ramisettyranganadh"></p> -->
 
 
-with 11+ Years of Experience from various domains Aerospace, Automotive, Industrial Electronics, Networking and Telecom. 
+with 11+ Years of Experience in various domains Aerospace, Automotive, Networking, Industrial Electronics and Telecom. 
   
 Worked on Project:
   
