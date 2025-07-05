@@ -4,13 +4,13 @@
 <!-- <p><img align="right" src="https://github.com/ramisettyranganadh/ramisettyranganadh/blob/main/GIT%20PROFILE%20ANIMATION.gif" alt="ramisettyranganadh"></p> -->
 <ul>
 <li>
-<p> <h3>Embedded Software Development </h3> with 11 Years of Experience from various domains Aerospace, Automotive, Industrial Electronics, Networking and Telecom. 
+<p> <h3>Embedded Software Development </h3> with 11+ Years of Experience from various domains Aerospace, Automotive, Industrial Electronics, Networking and Telecom. 
   
 Currently working on Project:
   
 <h4> Main Deck Cargo Loading System (ANCRA - A350F) </h4>
 
-From Aug 2022 to till date
+From Aug 2022 to Jun 2025
 
 Main Deck Cargo Loading System is responsible for moving the ULDs (Unit Load Device) inside the aircraft main deck with the help of PDUs (Power Drive Units), CP (Control Panels), CDP (Control Display Panel), CRDCs (Common Remote Data Concentrator) and CPIOM (Core Processing Input Output Module) to the designated Zone based on the commands sent by Control Panel over CAN nodes and Ethernet networks.
 
