@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Ramisetty Ranganadh </h1>
-<h3 align="center">Senior Technical Lead, HCL TECH 🌟</h3>
+<h3 align="center"> Embedded Software Architect 🌟</h3>
 
 <!-- <p><img align="right" src="https://github.com/ramisettyranganadh/ramisettyranganadh/blob/main/GIT%20PROFILE%20ANIMATION.gif" alt="ramisettyranganadh"></p> -->
 <ul>
