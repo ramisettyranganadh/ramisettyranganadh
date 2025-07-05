@@ -2,9 +2,9 @@
 <h3 align="center"> Embedded Software Architect and Developer 🌟</h3>
 
 <!-- <p><img align="right" src="https://github.com/ramisettyranganadh/ramisettyranganadh/blob/main/GIT%20PROFILE%20ANIMATION.gif" alt="ramisettyranganadh"></p> -->
-<ul>
-<li>
-<p> with 11+ Years of Experience from various domains Aerospace, Automotive, Industrial Electronics, Networking and Telecom. 
+
+
+with 11+ Years of Experience from various domains Aerospace, Automotive, Industrial Electronics, Networking and Telecom. 
   
 Worked on Project:
   
