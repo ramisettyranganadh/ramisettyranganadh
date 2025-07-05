@@ -16,7 +16,8 @@ Main Deck Cargo Loading System is responsible for moving the ULDs (Unit Load Dev
 
 Role Description: Architect/Developer
 
-- Developed firmware (Bootstrap Bare Metal Embedded Software) for various Control Panels with Microchip PIC32MK Microcontroller using MPLab X IDE.
+- Developed firmware for various Control Panels and Control Display Panel with Microchip PIC32MK Microcontroller using MPLab X IDE and ARM using Yocto Linux.
+- Yocto linux build system customization, recipe development, image creation for bootloader using GCC, Make, Git, BitBake and devtool.
 - Designed and implemented device drivers and firmware for various peripherals.
 - Developed and implemented Bootloader Software to Initialise Firmware, Drivers and perform Power On Self Tests (POST).
 - Developed and implemented Dataloader Software to perform Field Data Loading of Operational Software.
@@ -27,7 +28,7 @@ Role Description: Architect/Developer
   - Receive Maintenance Request and transmit Response using CAN.
   - Ensured compliance with DO178C industry standards and regulations.
 
-Skill Set : C, MPLAB X IDE, XC32, PIC32MK0512MCM100, CAN, FLASH, NVM, SPI, SVN, JIRA, DOORS etc.
+Skill Set : C, MPLAB X IDE, Yocto Linux, U-Boot, DTS, PIC32MK0512MCM100, CAN, FLASH, NVM, SPI, SVN, JIRA, DOORS etc.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
